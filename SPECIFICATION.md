@@ -1,7 +1,7 @@
 # Open Agent SLA Specification (OASS) — Draft v0.1
 
 **Status:** Draft, request for comments.
-**Author:** Attestum (`{{company-url}}`).
+**Author:** Attestum (`https://attestum.ai`).
 **License:** CC-BY 4.0. This spec is intentionally free for anyone to implement.
 **Discussion:** `github.com/attestum-ai/agent-sla-spec` (issues & pull requests welcome).
 
