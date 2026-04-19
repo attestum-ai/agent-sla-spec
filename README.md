@@ -66,6 +66,7 @@ Community input welcome. See the end of [`SPECIFICATION.md`](./SPECIFICATION.md)
 
 Draft authored by the team at [Attestum](https://attestum.ai) — the reliability and compliance control plane for production AI agents. OASS is maintained here as an independent open specification; Attestum is one implementation, others are welcome and encouraged.
 
+Follow along: [X](https://x.com/AttestumAI) · [Bluesky](https://bsky.app/profile/attestum.ai) · [LinkedIn](https://linkedin.com/company/attestumai)
 ## Acknowledgements
 
 Structure draws on precedents from:
