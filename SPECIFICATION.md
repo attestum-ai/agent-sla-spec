@@ -15,7 +15,7 @@ The Open Agent SLA Specification (OASS) defines a vendor-neutral schema for expr
 - A regulator or auditor can read an OASS record and tie it to specific obligations (EU AI Act Article 15/17/21, SOC 2 Common Criteria 7 & 8, SR-11-7, MAS FEAT).
 - A control plane can automatically enforce the SLA, including automatic rollback, and produce a provably complete audit trail.
 
-This is a spec, not a product. The spec is free. A reference implementation lives at `github.com/attestum-ai/attestum-engine`.
+This is a spec, not a product. The spec is free. A reference implementation is in development at `github.com/attestum-ai/attestum-engine`.
 
 ## 2. Scope and Non-Goals
 
@@ -250,7 +250,7 @@ OASS v0.1 provides a reference mapping. Implementations SHOULD declare the mappi
 
 ## 11. Reference Implementation
 
-A reference implementation of the control-plane behavior described here is available at `github.com/attestum-ai/attestum-engine` under an OSI-approved license. The reference implementation is not normative; other implementations are welcome and encouraged.
+A reference implementation of the control-plane behavior described here is in development at `github.com/attestum-ai/attestum-engine` and will be released under an OSI-approved license. The reference implementation is not normative; other implementations are welcome and encouraged.
 
 ## 12. Acknowledgements
 

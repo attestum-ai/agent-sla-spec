@@ -28,7 +28,7 @@ The Open Agent SLA Specification is maintained as a community-reviewed standard.
 
 ## Decision process
 
-For v0.1 → v0.2, all changes are decided by the maintainers (currently the Halter team) based on community discussion. We expect to transition to a multi-organization steering group once OASS has three or more independent implementations.
+For v0.1 → v0.2, all changes are decided by the maintainers (currently the Attestum team) based on community discussion. We expect to transition to a multi-organization steering group once OASS has three or more independent implementations.
 
 Breaking changes require a new MAJOR version. Additive changes may ship under MINOR.
 
